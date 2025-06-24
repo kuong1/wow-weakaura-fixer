@@ -98,7 +98,7 @@ export function App() {
 
 				{/* Footer */}
 				<div className="mt-12 text-center text-zinc-500 text-sm">
-					<p>Made by Munigan from LUNA (Onyxia/Warmane) (<a className="underline" href="https://github.com/diego3g">https://github.com/diego3g</a>)</p>
+					<p>Made by Munigan from LUNA (Onyxia/Warmane) (<a className="underline" href="https://github.com/diego3g/wow-weakaura-fixer">https://github.com/diego3g</a>)</p>
 				</div>
 			</div>
 		</div>
